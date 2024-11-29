@@ -1,7 +1,7 @@
 # Learned Multi-aperture Color-coded Optics for Snapshot Hyperspectral Imaging
 ### [Project Page](https://light.princeton.edu/publication/array-hsi/) | [Paper](https://dl.acm.org/doi/10.1145/3687976)
 
-[Zheng Shi*](https://zheng-shi.github.io/), [Xiong Dun*](), [Haoyu Wei](https://whywww.github.io/), [Shiyu Dong](), [Zhanshan Wang](),[Xinbin Cheng](), [Felix Heide](https://www.cs.princeton.edu/~fheide/),[Yifan (Evan) Peng](https://www.eee.hku.hk/~evanpeng/)
+[Zheng Shi*](https://zheng-shi.github.io/), [Xiong Dun*](), [Haoyu Wei](https://whywww.github.io/), [Siyu Dong](), [Zhanshan Wang](),[Xinbin Cheng](), [Felix Heide](https://www.cs.princeton.edu/~fheide/),[Yifan (Evan) Peng](https://www.eee.hku.hk/~evanpeng/)
 
 If you find our work useful in your research, please cite:
 ```
